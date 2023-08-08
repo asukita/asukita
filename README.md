@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pam Vargas
 ==================================================================================================================================
 
-Engineering Manager, Team Lead, Teach Lead & Fullstack Web Developer Sr
+Software Engineering Manager | Team & Tech Lead | Fullstack Dev Sr
 -------------------------------------------------------------------------
 
 Delivering customized solutions across diverse industries since 2012 with the help of my team and the technology. 
@@ -50,4 +50,4 @@ Actively seeking new challenges and a dynamic team to collaborate on exciting pr
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/asukita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pamela-vargas-cruz-52845689/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/asukita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pamela-v-52845689/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
